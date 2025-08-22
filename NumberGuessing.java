@@ -1,4 +1,4 @@
-
+package SummerCodes;
 import java.util.Scanner;
 
 public class NumberGuessing{
