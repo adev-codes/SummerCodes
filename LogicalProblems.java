@@ -4,7 +4,6 @@ import java.util.Scanner;
  * A simple Java console program with a menu-driven interface
  * to solve logical problems: Prime Check, Factorial, Fibonacci, Armstrong.
  * 
- * Author: Ayesha
  * Date: August 2025
  */
 public class LogicalProblems {
