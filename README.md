@@ -14,6 +14,7 @@ I believe in learning by doing, and this repository was my way of:
 
 ## 📌What's Inside? 
 This repo is organized into folders based on topics, languages, or concepts.Here’s a general idea of what you might find: 
+
 🔹 **Java Programs** – Practice problems and core programming exercises. 
 
 🔹 **Mini Projects** – Small but meaningful projects to reinforce learning. 
